@@ -38,7 +38,8 @@ This Python script allows you to easily extract all the text and notes from a Po
 ## Troubleshooting 🩺
 
 If you encounter any issues or have suggestions for improvements, please open an issue on this repository.
-License 📄
+
+## License 📄
 
 This project is released under the MIT License.
 
